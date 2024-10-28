@@ -10,14 +10,8 @@ const Services = () => {
           <li>Plastics: We accept various types of plastic, including PET, HDPE, and more.</li>
           <li>Metals: From aluminum cans to scrap metal, we recycle it all.</li>
           <li>Paper and Cardboard: Ensure your paper waste is repurposed.</li>
-          <li>Electronics: We responsibly recycle electronic waste, preventing harmful materials from ending up in landfills.</li>
+          <li>Tires: We responsibly recycle used tires, ensuring they are processed and repurposed in an environmentally friendly way to prevent them from ending up in landfills.</li>
         </ul>
-        <h4 className="mt-4">How It Works:</h4>
-        <ol>
-          <li>1. Contact Us: Reach out for a quote or more information.</li>
-          <li>2. Schedule a Pickup: We’ll arrange a convenient time to collect your materials.</li>
-          <li>3. Get Paid: Receive competitive pricing for your recyclables.</li>
-        </ol>
       </div>
     </section>
   );
