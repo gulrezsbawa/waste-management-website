@@ -1,0 +1,18 @@
+/* src/components/Home.css */
+
+.home-section {
+    background: url('../assets/image.png') no-repeat center center;
+    background-size: cover;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    align-items: center; /* Center content vertically */
+    justify-content: center; /* Center content horizontally */
+    color: white; /* Text color */
+  }
+  
+  .container {
+    background-color: rgba(0, 0, 0, 0.5); /* Optional: Add semi-transparent background for better readability */
+    padding: 20px;
+    border-radius: 8px;
+  }
+  
