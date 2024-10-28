@@ -9,7 +9,7 @@ const Contact = () => {
         <ul className="list-unstyled text-center">
           <li>Phone: +1 587-573-2731</li>
           <li>Email: [Your Email Address]</li>
-          <li>Address: 125 Taracove Crescent North East, Calgary, Alberta</li>
+          <li>Address: 327 Castelridge Drive, NE, Calgary, Alberta T3J 2A5</li>
         </ul>
         <p className="text-center">Follow Us on Social Media:</p>
         <div className="text-center">
