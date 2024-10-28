@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "08504775cf7f0a144d45d9f5e6ec5820",
+    "revision": "2d0993ce9624951ffcff70e44a2fd1f2",
     "url": "/waste-management-website/index.html"
   },
   {
