@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/waste-management-website/static/css/main.273f50b1.chunk.css",
-    "main.js": "/waste-management-website/static/js/main.b0303e30.chunk.js",
-    "main.js.map": "/waste-management-website/static/js/main.b0303e30.chunk.js.map",
+    "main.js": "/waste-management-website/static/js/main.b802bbdc.chunk.js",
+    "main.js.map": "/waste-management-website/static/js/main.b802bbdc.chunk.js.map",
     "runtime-main.js": "/waste-management-website/static/js/runtime-main.5a51b03a.js",
     "runtime-main.js.map": "/waste-management-website/static/js/runtime-main.5a51b03a.js.map",
     "static/css/2.b71989ea.chunk.css": "/waste-management-website/static/css/2.b71989ea.chunk.css",
-    "static/js/2.8d174958.chunk.js": "/waste-management-website/static/js/2.8d174958.chunk.js",
-    "static/js/2.8d174958.chunk.js.map": "/waste-management-website/static/js/2.8d174958.chunk.js.map",
+    "static/js/2.d5e32f00.chunk.js": "/waste-management-website/static/js/2.d5e32f00.chunk.js",
+    "static/js/2.d5e32f00.chunk.js.map": "/waste-management-website/static/js/2.d5e32f00.chunk.js.map",
     "index.html": "/waste-management-website/index.html",
-    "precache-manifest.e1619c2988839706d5bc3ec9a9778a87.js": "/waste-management-website/precache-manifest.e1619c2988839706d5bc3ec9a9778a87.js",
+    "precache-manifest.6070bf3dcc246a45bf84480f2c8a2bd3.js": "/waste-management-website/precache-manifest.6070bf3dcc246a45bf84480f2c8a2bd3.js",
     "service-worker.js": "/waste-management-website/service-worker.js",
     "static/css/2.b71989ea.chunk.css.map": "/waste-management-website/static/css/2.b71989ea.chunk.css.map",
     "static/css/main.273f50b1.chunk.css.map": "/waste-management-website/static/css/main.273f50b1.chunk.css.map",
-    "static/js/2.8d174958.chunk.js.LICENSE.txt": "/waste-management-website/static/js/2.8d174958.chunk.js.LICENSE.txt",
+    "static/js/2.d5e32f00.chunk.js.LICENSE.txt": "/waste-management-website/static/js/2.d5e32f00.chunk.js.LICENSE.txt",
     "static/media/Home.css": "/waste-management-website/static/media/image.1ceddeeb.png"
   },
   "entrypoints": [
     "static/js/runtime-main.5a51b03a.js",
     "static/css/2.b71989ea.chunk.css",
-    "static/js/2.8d174958.chunk.js",
+    "static/js/2.d5e32f00.chunk.js",
     "static/css/main.273f50b1.chunk.css",
-    "static/js/main.b0303e30.chunk.js"
+    "static/js/main.b802bbdc.chunk.js"
   ]
 }
