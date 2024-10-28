@@ -1,7 +1,7 @@
 {
   "name": "waste-management-website",
   "version": "0.1.0",
-  // "homepage": "https://gulrezsbawa.github.io/waste-management-website/",
+  "homepage": "https://gulrezsbawa.github.io/waste-management-website/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.13.3",
